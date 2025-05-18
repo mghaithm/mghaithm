@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Ghaith
 
-<!--
-**mghaithm/mghaithm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a motivated **Software Engineer** transitioning into **Full-Stack Development** and **Cloud Technologies**.  
+Currently building real-world projects with **NestJS, Prisma, PostgreSQL**, and **React**.  
+I'm open to **collaborations**, continuous **learning**, and **full-time opportunities** in Germany.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+
+- 🔧 Developing a full-stack application using **NestJS + Prisma**
+- 🤖 Building **Learn80** – an AI-powered 80/20 learning assistant
+- 🌐 Learning **Next.js**
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** JavaScript, TypeScript, Python, HTML5, CSS  
+- **Frameworks & Libraries:** React, NestJS, Next.js  
+- **Tools & Platforms:** Git, Docker, Jira, Confluence, Prisma, PostgreSQL, VS Code  
+- **Cloud:** Google Cloud Platform (basics), Firebase (basics)
+
+---
+
+## 🎯 My Goals
+
+- Become a **Product Owner** or **Full-Stack Developer**
+- Build impactful applications that solve real problems
+- Secure a job in Germany within the next **2 months**
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: [m.ghaith.m94@gmail.com](mailto:m.ghaith.m94@gmail.com)  
+- 💻 GitHub: [@mghaithm](https://github.com/mghaithm)
