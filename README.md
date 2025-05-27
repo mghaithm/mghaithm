@@ -8,8 +8,7 @@ I'm open to **collaborations**, continuous **learning**, and **full-time opportu
 
 ## 🚀 What I'm Working On
 
-- 🔧 Developing a full-stack application using **NestJS + Prisma**
-- 🤖 Building **Learn80** – an AI-powered 80/20 learning assistant
+- 🔧 Deploying a full-stack application using **Docker**
 - 🌐 Learning **Next.js**
 
 ---
@@ -18,14 +17,14 @@ I'm open to **collaborations**, continuous **learning**, and **full-time opportu
 
 - **Languages:** JavaScript, TypeScript, Python, HTML5, CSS  
 - **Frameworks & Libraries:** React, NestJS, Next.js  
-- **Tools & Platforms:** Git, Docker, Jira, Confluence, Prisma, PostgreSQL, VS Code  
+- **Tools & Platforms:** Git, Docker, Jira, Confluence, Prisma, PostgreSQL, VS Code
 - **Cloud:** Google Cloud Platform (basics), Firebase (basics)
 
 ---
 
 ## 🎯 My Goals
 
-- Become a **Product Owner** or **Full-Stack Developer**
+- Become a **Product Owner** or **Full-Stack Developer** 
 - Build impactful applications that solve real problems
 - Secure a job in Germany within the next **2 months**
 
